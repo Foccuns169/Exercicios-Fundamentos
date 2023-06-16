@@ -1,0 +1,40 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:darkslategray; 
+    color: white;
+}
+
+.navbar{
+    text-align: center;
+    border-radius: 20px;
+    border-style: groove;
+    background-color: darkolivegreen;
+}
+
+a{
+    color: white;
+}
+
+button{
+    margin-left: 90%;
+    width: 70px;
+    height: 35px;
+    color:white;
+    border-radius: 6px;
+    background-color: darkolivegreen;
+    border-style: groove;
+    border-color: white;
+}
+
+button:hover{
+    background-color: darkgreen;
+}
+
+table{
+    border-color: white;
+    background-color: darkolivegreen;
+}
+
+table:hover{
+    background-color: darkgreen;
+}

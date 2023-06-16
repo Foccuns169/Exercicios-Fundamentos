@@ -1,0 +1,24 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:darkslategray; 
+}
+
+.navbar{
+    text-align: center;
+    border-radius: 20px;
+    border-style: groove;
+    background-color: darkolivegreen;
+}
+
+h1{
+    color:white;
+    font-style: oblique;
+}
+
+p{
+    color: white;
+}
+
+a{
+    color: white;
+}
